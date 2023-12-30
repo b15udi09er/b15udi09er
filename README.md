@@ -13,4 +13,4 @@
 📫 Connect with me on [Gmail](ahamadeh4@gmail.com)
 
 👨‍💻 Even though my GitHub may not have projects yet, stay tuned for future endeavors! Happy coding!
-https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif
+
