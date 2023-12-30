@@ -1,16 +1,16 @@
-### Hi there 👋
+# b15udi09er
 
-<!--
-**b15udi09er/b15udi09er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello world! I'm b15udi09er, an enthusiastic learner and aspiring programmer with a focus on backend development.
 
-Here are some ideas to get you started:
+🌱 I'm passionate about computer science, software engineering, and communication engineering, and I'm on a journey to explore the vast world of technology. While I haven't worked on projects yet, I'm actively acquiring new skills and knowledge every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 I'm currently diving into:
+- Learning C++
+- Exploring Node.js
+
+📚 I'm open to collaboration and excited about the possibilities that open source projects offer. If you have any tips, suggestions, or want to connect, feel free to reach out!
+
+📫 Connect with me on [Gmail](ahamadeh4@gmail.com)
+
+👨‍💻 Even though my GitHub may not have projects yet, stay tuned for future endeavors! Happy coding!
+https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif
