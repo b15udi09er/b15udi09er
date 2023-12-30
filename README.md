@@ -10,7 +10,7 @@
 
 📚 I'm open to collaboration and excited about the possibilities that open source projects offer. If you have any tips, suggestions, or want to connect, feel free to reach out!
 
-📫 Connect with me on [Gmail](ahamadeh4@gmail.com)
+📫 Connect with me on [Gmail](mailto:ahamadeh4@gmail.com)
 
 👨‍💻 Even though my GitHub may not have projects yet, stay tuned for future endeavors! Happy coding!
 
