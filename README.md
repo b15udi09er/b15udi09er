@@ -1,6 +1,6 @@
 # b15udi09er
 
-👋 Hello world! I'm b15udi09er, an enthusiastic learner and aspiring programmer with a focus on backend development.
+👋 Hello world! I'm Abdullah Hamadeh (b15udi09er), an enthusiastic learner and aspiring programmer with a focus on backend development.
 
 🌱 I'm passionate about computer science, software engineering, and communication engineering, and I'm on a journey to explore the vast world of technology. While I haven't worked on projects yet, I'm actively acquiring new skills and knowledge every day.
 
